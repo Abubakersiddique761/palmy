@@ -4,6 +4,25 @@
   "description": "Palmy is an theme, which has a gorgeous look with sky blue and dark blue",
   "version": "0.0.1",
   "publisher": "AbubakerSiddique",
+  "icon": "P.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Abubakersiddique761/palmy"
+  },
+  "keywords": [
+    "theme",
+    "palmy",
+    "blue theme",
+    "latest theme",
+    "popular theme",
+    "skyblue",
+    "dark blue",
+    "dark theme",
+    "Abubaker Siddique",
+    "dark blue theme",
+    "beautiful theme",
+    "dangerous theme"
+  ],
   "engines": {
     "vscode": "^1.72.0"
   },
