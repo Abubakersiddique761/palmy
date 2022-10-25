@@ -1,16 +1,15 @@
-# palmy README
+![Image](SS.png)
 
-## Working with Markdown
+# Palmy - VS Code Theme
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Palmy is an VS Code theme which a combination of gorgeous colors like:
+- Sky Blue
+- Dark Blue
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+Extension Website
+> https://marketplace.visualstudio.com/items?itemName=AbubakerSiddique.palmy
 
-## For more information
+Extension Installation
+> ext install AbubakerSiddique.palmy
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+---
