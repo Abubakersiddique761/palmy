@@ -1,0 +1,21 @@
+{
+  "name": "palmy",
+  "displayName": "Palmy",
+  "description": "Palmy is an theme, which has a gorgeous look",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Palmy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Palmy-color-theme.json"
+      }
+    ]
+  }
+}
