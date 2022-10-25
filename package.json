@@ -1,8 +1,9 @@
 {
   "name": "palmy",
   "displayName": "Palmy",
-  "description": "Palmy is an theme, which has a gorgeous look",
+  "description": "Palmy is an theme, which has a gorgeous look with sky blue and dark blue",
   "version": "0.0.1",
+  "publisher": "AbubakerSiddique",
   "engines": {
     "vscode": "^1.72.0"
   },
